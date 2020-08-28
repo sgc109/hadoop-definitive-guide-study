@@ -1,1 +1,1 @@
-# hadoop-definitive-guide-study
+# 하둡 완벽 가이드 4판 스터디
